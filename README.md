@@ -21,8 +21,6 @@ I am a high-performing Sales professional within the AWS ecosystem, specializing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📈 GitHub Stats
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=transparent)
 
 ### 📬 Connect with Me
 [LinkedIn](https://linkedin.com/in/jasonrbutler) | [Email](mailto:hellojasonbutler@gmail.com)
